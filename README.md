@@ -1,2 +1,2 @@
 # BasicML
-First ML project on github
+Simple Linear Regression Model
